@@ -1,0 +1,7 @@
+# Academic Calendar Search Libraries
+
+# PDF Extraction
+pymupdf>=2.0
+
+# Testing
+pytest>=9.1.1
